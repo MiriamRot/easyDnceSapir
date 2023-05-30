@@ -1,0 +1,46 @@
+.videoButton {
+    background-color: #EFA9B8 ;
+    opacity: 0.8;
+    width:300px;
+    height: 100px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 1px 2px 9px #928e8f;
+    margin: 15px;
+    color: white;
+    font-size: 25px;
+}
+
+
+.videoButtonsDiv {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+   justify-content: center;
+    /* margin: 40px; */
+}
+
+
+.buttons {
+    border-radius: 50px !important;
+    width: 85px;
+    height: 45px;
+    box-shadow: 1px 2px 9px #928e8f;
+    border: none;
+    margin: 10px !important;
+    color: '#E48F9F' !important;
+}
+
+
+.divider{
+    border-top: 3px solid #bbb;
+    margin-top: 5px;
+    margin-bottom: 15px;
+
+}
+
+.videoScreen{
+    width: 600px;
+    height: 400px;
+}
+
+
